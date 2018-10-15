@@ -1,4 +1,7 @@
 # OpenGLNote
+
+score:https://learnopengl-cn.github.io/intro/
+
 ====BUILD ON MAC OS X====
 
 
